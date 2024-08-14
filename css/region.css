@@ -1,0 +1,21 @@
+.root{
+ -fx-background-color:#000;
+}
+.tfield{
+    -fx-text-fill : #fff;
+    -fx-background-color: transparent;
+    -fx-border-width : 0 0 1px 0;
+    -fx-border-color : white;
+    -fx-padding:0 0 0 50px;
+}
+.listView{
+    -fx-background-color: transparent;
+}
+.listView .cell{
+    -fx-background-color: transparent;
+    -fx-text-fill:#fff;
+}
+.listView .cell:selected{
+    -fx-background-color: #002535;
+    -fx-text-fill:red;
+}

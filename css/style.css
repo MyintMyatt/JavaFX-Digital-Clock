@@ -1,0 +1,22 @@
+.root{
+    -fx-background-color : #000;
+}
+.label {
+    -fx-text-fill : #fff;
+}
+.label1 {
+    -fx-text-fill : darkgray;
+}
+.pane{
+    -fx-background-radius : 30px;
+    -fx-background-color : #000;
+}
+.region{
+    -fx-font-style:italic;
+    -fx-font-family:monospace;
+}
+.btn{
+    -fx-background-color:#1d1f1d;
+    -fx-text-fill:#fff;
+}
+/*333834*/

@@ -1,0 +1,7 @@
+.root{
+    -fx-background-color : #000;
+}
+.label{
+    -fx-text-fill : #fff;
+    -fx-font-style: italic;
+}
